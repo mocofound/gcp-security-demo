@@ -1,7 +1,7 @@
-variable "gcp_json_credentials" {
+variable "gcp_creds" {
   description = "GCP JSON Credentials"
 }
 
-variable "gcp_project_id" {
+variable "project_id" {
   description = "Google Cloud Project ID"
 }
